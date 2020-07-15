@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 I'm Elizabeth but you can call me noot :)
 
+<!--
 - 🔭 I’m currently working on gossamer, filecoin secondary markets, ethermint
 - 🌱 I’m currently learning 中文
 - 💬 Ask me about computer stuff
 - 📫 How to reach me: elizabeth (at) chainsafe (dot) io
+-->
