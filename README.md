@@ -1,4 +1,4 @@
-### Hi there 👋
+### hello 👋
 
 <!--
 **noot/noot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Elizabeth but you can call me noot :)
+I'm Elizabeth aka noot aka elizabethereum 🐀
 
-<!--
-- 🔭 I’m currently working on gossamer, filecoin secondary markets, ethermint
-- 🌱 I’m currently learning 中文
-- 💬 Ask me about computer stuff
+- I like distributed systems, cryptography, and of course blockchain
+- My most used language at the moment is Go
+- I’m currently working on Gossamer, Ethermint, and Mina
 - 📫 How to reach me: elizabeth (at) chainsafe (dot) io
--->
