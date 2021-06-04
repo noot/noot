@@ -19,5 +19,5 @@ I'm Elizabeth aka noot aka elizabethereum 🐀
 
 - I like distributed systems, cryptography, and of course blockchain
 - My most used language at the moment is Go
-- I’m currently working on Gossamer, Ethermint, and Mina
+- I’m currently working on Gossamer and Mina
 - 📫 How to reach me: elizabeth (at) chainsafe (dot) io
