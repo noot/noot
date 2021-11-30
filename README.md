@@ -23,4 +23,4 @@ I'm Elizabeth aka noot aka elizabethereum 🐀
 
 Current projects:
 - Gossamer: Go implementation of the Polkadot Host
-- atomic-swap: ETH<->XMR atomic swap protocol and implementation
+- atomic-swap: ETH-XMR atomic swap protocol and implementation
