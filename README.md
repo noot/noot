@@ -23,5 +23,5 @@ I'm Elizabeth aka noot aka elizabethereum 🐀
 
 Current projects:
 - Gossamer: Go implementation of the Polkadot Host
-- Forest: RUst implementation of the Filecoin protocol
+- Forest: Rust implementation of the Filecoin protocol
 - atomic-swap: ETH-XMR atomic swap protocol and implementation
