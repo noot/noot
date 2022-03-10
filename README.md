@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 I'm Elizabeth aka noot aka elizabethereum 🐀
 
-- I like distributed systems, cryptography, privacy and of course blockchain
-- My most used language at the moment is Go
+- I like decentralized systems, cryptography, privacy and of course blockchain
+- My most used language at the moment is Go 
 - 📫 How to reach me: elizabeth (at) chainsafe (dot) io
 
 Current projects:
