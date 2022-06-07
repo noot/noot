@@ -19,7 +19,7 @@ I'm Elizabeth aka noot aka elizabethereum 🐀
 
 - I like decentralized systems, cryptography, privacy and of course blockchain
 - My most used language at the moment is Go 
-- 📫 How to reach me: elizabeth (at) chainsafe (dot) io
+- 📫 How to reach me: self (at) elizabeth (dot) website
 
 Current projects:
 - Gossamer: Go implementation of the Polkadot Host
