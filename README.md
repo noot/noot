@@ -18,10 +18,5 @@ Here are some ideas to get you started:
 I'm Elizabeth aka noot aka elizabethereum 🐀
 
 - I like decentralized systems, cryptography, privacy and of course blockchain
-- My most used language at the moment is Go 
+- My most used languages are the moment are Go and Rust
 - 📫 How to reach me: self (at) elizabeth (dot) website
-
-Current projects:
-- Gossamer: Go implementation of the Polkadot Host
-- Forest: Rust implementation of the Filecoin protocol
-- atomic-swap: ETH-XMR atomic swap protocol and implementation
