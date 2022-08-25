@@ -20,3 +20,6 @@ I'm Elizabeth aka noot aka elizabethereum 🐀
 - I like decentralized systems, cryptography, privacy and of course blockchain
 - My most used languages are the moment are Go and Rust
 - 📫 How to reach me: self (at) elizabeth (dot) website
+
+If you like my work, feel free to tip me:
+- XMR: `48WX8KhD8ECgnRBonmDdUecGt8LtQjjesDRzxAjj7tie4CdhtqeBjSLWHhNKMc52kWayq365czkN3MV62abQobTcT1Xe6xC`
