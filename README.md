@@ -21,5 +21,15 @@ I'm Elizabeth aka noot aka elizabethereum 🐀
 - My most used languages are the moment are Go and Rust
 - 📫 How to reach me: self (at) elizabeth (dot) website
 
-If you like my work, feel free to tip me:
+Current projects:
+- [ETH-XMR Atomic Swap](https://github.com/AthanorLabs/atomic-swap) implementation in Go
+- others (to be revealed in time)
+
+Previous projects:
+- [Gossamer](https://github.com/ChainSafe/gossamer): Polkadot Host implementation in Go
+- [Ethermint](https://github.com/evmos/ethermint): EVM module for Cosmos
+- [Forest](https://github.com/ChainSafe/forest): Filecoin client in Rust
+- assorted libraries (see pinned repos)
+
+Addresses:
 - XMR: `48WX8KhD8ECgnRBonmDdUecGt8LtQjjesDRzxAjj7tie4CdhtqeBjSLWHhNKMc52kWayq365czkN3MV62abQobTcT1Xe6xC`
