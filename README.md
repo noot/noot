@@ -33,3 +33,4 @@ Previous projects:
 
 Addresses:
 - XMR: `48WX8KhD8ECgnRBonmDdUecGt8LtQjjesDRzxAjj7tie4CdhtqeBjSLWHhNKMc52kWayq365czkN3MV62abQobTcT1Xe6xC`
+- KSM: `HfFpz4QUxfbocHudf8UU7cMgHqkHpf855Me5X846PZAsAYE`
