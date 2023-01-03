@@ -23,7 +23,6 @@ I'm Elizabeth aka noot aka elizabethereum 🐀
 
 Current projects:
 - [ETH-XMR Atomic Swap](https://github.com/AthanorLabs/atomic-swap) implementation in Go
-- Verifiable Timelock Commitments based on [Homomorphic Timelock Puzzles](https://github.com/noot/htlp-rs)
 - others (to be revealed in time)
 
 Previous projects:
