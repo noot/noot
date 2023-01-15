@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 I'm Elizabeth aka noot aka elizabethereum 🐀
 
-- I like decentralized systems, cryptography, privacy and of course blockchain
+- I'm a software dev focusing on decentralized/p2p systems, cryptography, and privacy
 - My most used languages are the moment are Go and Rust
 - 📫 How to reach me: self (at) elizabeth (dot) website
 
 Current projects:
 - [ETH-XMR Atomic Swap](https://github.com/AthanorLabs/atomic-swap) implementation in Go
-- others (to be revealed in time)
+- libp2p/IPFS privacy enhancements
 
 Previous projects:
 - [Gossamer](https://github.com/ChainSafe/gossamer): Polkadot Host implementation in Go
@@ -34,5 +34,3 @@ Previous projects:
 Addresses:
 - XMR: `48WX8KhD8ECgnRBonmDdUecGt8LtQjjesDRzxAjj7tie4CdhtqeBjSLWHhNKMc52kWayq365czkN3MV62abQobTcT1Xe6xC`
 - KSM: `HfFpz4QUxfbocHudf8UU7cMgHqkHpf855Me5X846PZAsAYE`
-
-![stats](https://github-readme-stats.vercel.app/api?username=noot&count_private=true&show_icons=true&theme=onedark)
