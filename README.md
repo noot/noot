@@ -23,7 +23,7 @@ I'm Elizabeth aka noot aka elizabethereum 🐀
 
 Current projects:
 - [ETH-XMR Atomic Swap](https://github.com/AthanorLabs/atomic-swap) implementation in Go
-- libp2p/IPFS privacy enhancements
+- p2p network privacy enhancements @ ChainSafe
 
 Previous projects:
 - [Gossamer](https://github.com/ChainSafe/gossamer): Polkadot Host implementation in Go
