@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 I'm Elizabeth aka noot aka elizabethereum 🐀
 
 - I'm a software dev focusing on decentralized/p2p systems, cryptography, and privacy
-- My most used languages are the moment are Go and Rust
+- I mostly write Rust and Go
 - 📫 How to reach me: self (at) elizabeth (dot) website
 
 Current projects:
-- [ETH-XMR Atomic Swap](https://github.com/AthanorLabs/atomic-swap) implementation in Go
-- Shared Sequencer @ [Astria](https://github.com/astriaorg) in Rust
+- [ETH-XMR Atomic Swap](https://github.com/AthanorLabs/atomic-swap) implementation
+- Shared Sequencer @ [Astria](https://github.com/astriaorg)
 
 Previous projects:
 - [Gossamer](https://github.com/ChainSafe/gossamer): Polkadot Host implementation in Go
