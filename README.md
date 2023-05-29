@@ -25,12 +25,6 @@ Current projects:
 - [ETH-XMR Atomic Swap](https://github.com/AthanorLabs/atomic-swap) implementation
 - Shared Sequencer @ [Astria](https://github.com/astriaorg)
 
-Previous projects:
-- [Gossamer](https://github.com/ChainSafe/gossamer): Polkadot Host implementation in Go
-- [Ethermint](https://github.com/evmos/ethermint): EVM module for Cosmos
-- [Forest](https://github.com/ChainSafe/forest): Filecoin client in Rust
-- assorted libraries (see pinned repos)
-
 Addresses:
 - XMR: `48WX8KhD8ECgnRBonmDdUecGt8LtQjjesDRzxAjj7tie4CdhtqeBjSLWHhNKMc52kWayq365czkN3MV62abQobTcT1Xe6xC`
 - KSM: `HfFpz4QUxfbocHudf8UU7cMgHqkHpf855Me5X846PZAsAYE`
